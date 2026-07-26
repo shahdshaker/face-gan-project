@@ -96,6 +96,4 @@ face-gan-project/
    saved automatically to Google Drive under `face_gan_results/`.
 
 ## Model Weights
-Trained generator/discriminator weights (`.h5` files) are not included in
-this repository due to file size. They are available here: **[add your
-Google Drive link if you want to share them]**
+Trained generator/discriminator weights (`.h5` files)
